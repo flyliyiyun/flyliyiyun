@@ -46,6 +46,5 @@ Repositories marked by GitHub as forks are learning and experimentation work bas
 
 ## Connect
 
-- [LinkedIn](https://www.linkedin.com/in/christina-amoy)
 - Email: 0xchristinali@gmail.com
 
