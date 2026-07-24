@@ -1,4 +1,4 @@
-# Christina Li / 李宜昀
+# Christina Li 
 
 **AI-native builder at the intersection of finance, agents, and startup operations.**
 
